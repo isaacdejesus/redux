@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "content": "the app is in redux state",
+      "important": true,
+      "id": 1
+    },
+    {
+      "content": "state changes are made with actions",
+      "important": false,
+      "id": 2
+    },
+    {
+      "content": "Joey please bring potatoes",
+      "important": false,
+      "id": 3
+    }
+  ]
+}
